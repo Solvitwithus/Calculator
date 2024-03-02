@@ -9,7 +9,7 @@ function Display() {
   };
 
   const clearDisplay = () => {
-    setDisplayValue('`');
+    setDisplayValue('');
   };
 
   const calculate = () => {
